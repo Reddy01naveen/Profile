@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Telecom Domain, Banking Domain and courses such as Data Warehousing, Data Mining, Probability, Statistics, Information Visualization and Many more**
 
-- 📫 How to reach me **ramachn@clarkson.edu**
+- 📫 How to reach me **nramacha@clarkson.edu**
 
 - 📄 Know about my experiences [https://github.com/Reddy01naveen/portfolio/blob/main/NaveenReddy_Resume.docx.pdf](https://github.com/Reddy01naveen/portfolio/blob/main/NaveenReddy_Resume.docx.pdf)
 
